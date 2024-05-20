@@ -1,0 +1,7 @@
+#myslq local volume
+/devphp-mysql-data
+# ignore all .sql files
+/install/*.sql
+
+#.env
+.env
